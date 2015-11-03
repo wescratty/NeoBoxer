@@ -21,6 +21,7 @@ public class Game implements Runnable{
 
 
     public Game(){}
+    //TODO add game logic
 
     public Game(Boxer b1,Boxer b2){
 

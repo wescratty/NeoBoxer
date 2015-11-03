@@ -14,8 +14,4 @@ public interface Subject {
     void checkDidBlock();
 //    boolean observerCheckDidBLock();
 
-
-
-
-
 }
